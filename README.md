@@ -4,7 +4,7 @@
 ## Навчальний заклад
 [ІТ коледж Львівської політехніки](https://itcollege.lviv.ua)
 
-![college](pictures/college.png)
+![college](init/pictures/college.png)
 
 ## Студент
 Студент Віталій Нагацький
