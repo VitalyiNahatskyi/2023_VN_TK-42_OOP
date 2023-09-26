@@ -4,10 +4,10 @@
 ---
 ### Виконання роботи
 - Результати виконання завдання:
-    1. Розробили [першу програму у файлі 'first_app.py'](first_app.py);
+    1. Розробили [першу програму у файлі `first_app.py`](first_app.py);
     1. Програма вивела результат: ![app](first_app.png) :star2:;
-    1. Створили [Python Notebook 'first_app.ipynb'](first_app.ipynb) та попрактикувались у роботі з комірками :star2:;
-    1. Отримані результати та робота AI ChatGPT представлена у [Python Notebook 'first_app.ipynb'](first_app.ipynb) :star2:;
+    1. Створили [Python Notebook `first_app.ipynb`](first_app.ipynb) та попрактикувались у роботі з комірками :star2:;
+    1. Отримані результати та робота AI ChatGPT представлена у [Python Notebook `first_app.ipynb`](first_app.ipynb) :star2:;
     1. Навчились створювати файли для програм Python та працювати у Python Notebook, ;
 
 - основний код з яким працювали у завданні :
@@ -19,7 +19,7 @@ location = "Berlin"
 print(f"{name} start programming at {datetime.now()}. {location} is the best city!")
 ```
 
-- результати виконання індивідуального завдання - робота з ChatGPT представлена у [Python Notebook 'first_app.ipynb'](first_app.ipynb);
+- результати виконання індивідуального завдання - робота з ChatGPT представлена у [Python Notebook `first_app.ipynb`](first_app.ipynb);
 
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
