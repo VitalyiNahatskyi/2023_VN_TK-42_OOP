@@ -22,7 +22,6 @@ print(f"{name} start programming at {datetime.now()}. {location} is the best cit
 - результати виконання індивідуального завдання - робота з ChatGPT представлена у [Python Notebook `first_app.ipynb`](first_app.ipynb);
 
 ### Висновок: 
-> у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі: створено першу програму у Python, навчились працювати з форматуванням Markdown, навчились працювати з Python Notebooks
 - :question: Чи досягнуто мети роботи: так :white_check_mark:
 - :question: Які нові знання отримано: навчивлись працювати з Python Notebook
