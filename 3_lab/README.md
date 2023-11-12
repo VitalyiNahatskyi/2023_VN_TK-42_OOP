@@ -82,7 +82,7 @@ class MyName:
 
 print("Let's Start!")
 
-names = ("Bohdan", "Marta", None)
+names = ("Bohdan", "Marta","Vitalyi", None)
 all_names = {name: MyName(name) for name in names} 
 # Щоб програма виводила тільки існуючі ім'я а не метод anonymous_user(), то можна вставити цей код: 
 # all_names = {name: MyName(name) for name in names if name is not None}
