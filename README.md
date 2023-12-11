@@ -13,7 +13,7 @@
 
 ## Група
 Група ТК-42
-
+---
 ## Список робіт
 | Номер лабораторної | Назва лабораторної | Статус виконання |
 |:-------------------:|:---------------------|:------------------:|
@@ -23,21 +23,4 @@
 | 4                   | [Основи ООП](3_lab/README.md) | Виконано |
 | 5                   | [Робота з віртуальними середовищами](4_lab/README.md) | Виконано |
 | 6                   | [Статичні веб сторінки](https://vitalyinahatskyi.github.io/2023_VN_TK-42_OOP/) | Виконано |
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
+---
